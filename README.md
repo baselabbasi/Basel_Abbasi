@@ -4,7 +4,7 @@
 
 ## 👋 Welcome to My GitHub Profile
 
-Hello! I'm **Basel Abbasi**, a passionate developer and tech enthusiast.  
+I'm **Basel Abbasi**, a passionate developer and tech enthusiast.  
 Here I showcase my projects, skills, and contributions to the open-source community.
 
 ## 🧩 What I’m up to
@@ -18,6 +18,16 @@ Here I showcase my projects, skills, and contributions to the open-source commun
 - 📄 Know about my experiences: **https://www.linkedin.com/in/basel-abbasi/**
 
 ---
+## 🤝 Connect with me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/basel-abbasi/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Basel Abbasi LinkedIn" height="30" width="40" />
+  </a>
+   <a href="baselabbasi863@gmail.com" target="blank">
+    <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7EhmD2uXYZ2ZXLOas1G2kKZQvaiwK8IO-3A&s" alt="Basel Abbasi Gmail" height="40" width="40" />
+  </a>
+</p>
 
 ## 🛠️ Languages and Tools
 
@@ -67,16 +77,4 @@ Here I showcase my projects, skills, and contributions to the open-source commun
 
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=baselabbasi&show_icons=true&locale=en&layout=compact" alt="baselabbasi top languages" />
-</p>
-
-
-## 🤝 Connect with me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/basel-abbasi/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Basel Abbasi LinkedIn" height="30" width="40" />
-  </a>
-   <a href="baselabbasi863@gmail.com" target="blank">
-    <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7EhmD2uXYZ2ZXLOas1G2kKZQvaiwK8IO-3A&s" alt="Basel Abbasi Gmail" height="40" width="40" />
-  </a>
 </p>
