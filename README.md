@@ -1,4 +1,12 @@
-<h1 align="center">Hi 👋, I'm Basel Abbasi</h1>
+<h1 align="center">
+  <img
+    src="https://helphub.mentorloop.com/hc/article_attachments/6909562417423"
+    alt="Basel Abbasi"
+    width="100"
+    style="vertical-align: middle; margin-left: 10px;"
+  /> , I'm Basel Abbasi
+ 
+</h1>
 
 ---
 
@@ -7,27 +15,22 @@
 I'm **Basel Abbasi**, a passionate developer and tech enthusiast.  
 Here I showcase my projects, skills, and contributions to the open-source community.
 
+
 ## 🧩 What I’m up to
+
+<img align="right" height="160" src="https://camo.githubusercontent.com/d972b3fdd96f5bcda3cb22db4be78c78db577b6a4aa58d779523cc1f598f1e8d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"  />
 
 - 🔭 I’m currently working on **ASP.NET Core APIs + AI Automation workflows**
 - 🌱 I’m currently learning **React, Azure & AI agents**
 - 👯 I’m looking to collaborate on **Open-source .NET tools, AI automation, bots & integrations**
 - 🤝 I’m looking for help with **Clean architecture patterns**
 - 💬 Ask me about **ASP.NET Core, .NET, REST APIs, SQL Server**
-- 📫 How to reach me: **baselabbasi863@gmail.com**
-- 📄 Know about my experiences: **https://www.linkedin.com/in/basel-abbasi/**
-
----
-## 🤝 Connect with me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/basel-abbasi/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Basel Abbasi LinkedIn" height="30" width="40" />
-  </a>
-   <a href="baselabbasi863@gmail.com" target="blank">
-    <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7EhmD2uXYZ2ZXLOas1G2kKZQvaiwK8IO-3A&s" alt="Basel Abbasi Gmail" height="40" width="40" />
-  </a>
-</p>
+- 📫 How to reach me:    <a href="baselabbasi863@gmail.com" target="blank">
+    <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7EhmD2uXYZ2ZXLOas1G2kKZQvaiwK8IO-3A&s" alt="Basel Abbasi Gmail" height="30" width="30" />
+  </a> **baselabbasi863@gmail.com**
+- 📄 Know about my experiences: <a href="https://www.linkedin.com/in/basel-abbasi/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Basel Abbasi LinkedIn" height="30" width="40" />  </a>
+    
 
 ## 🛠️ Languages and Tools
 
